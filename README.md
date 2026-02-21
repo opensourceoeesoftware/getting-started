@@ -7,7 +7,7 @@
 
 This project is a **manufacturing efficiency and maintenance management platform** designed to help factories track **Overall Equipment Effectiveness (OEE)** and manage maintenance tasks using a **Computerized Maintenance Management System (CMMS)**. It provides real-time insights into machine performance, downtime, and maintenance schedules to improve productivity and reduce operational costs.  
 ## Demo app
-* Visit [official website](https://www.opensourceoeesoftware.com) more for info
+* Visit [official website](https://www.opensourcecmmssoftware.com) more for info
 
 ## Key Features  
 ✔ **OEE Tracking**: Measures **Availability, Performance, and Quality** of production lines.  
