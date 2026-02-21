@@ -65,7 +65,7 @@ DEMO=true
 ```
 
 * Start the software by running `docker compose up` in the project root. For the first time running the software, it might takes few minutes
-* If you run the project with DEMO mode, you can then navigate to [Login page](http://localhost/login). you can use `username: admin  password: change me`
+* If you run the project with DEMO mode, you can then navigate to [Login page](http://localhost/login). you can use `username: admin  password: changeme`
 * You can also navigate to [Registration page](http://localhost/register) to create an account.
 * You can also login the [Admin panel](http://localhost/admin)
 
